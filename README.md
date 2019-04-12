@@ -1,4 +1,4 @@
-# ToDo-app | Parte 2 - Integrazioen con Realm
+# ToDo-app | Parte 2 - Integrazione con Realm
 
 Progetto del tutorial sulla creazione di un'app To-Do con il linguaggio Swift e la memorizzazione in locale dei dati con Realm. Questo è il progetto di partenza, il progetto completo è in un'altra repo
 
